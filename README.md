@@ -39,15 +39,15 @@ This project was developed as part of the NASA Space Apps Challenge 2024, specif
 
 ## Contributors
 
-- **Abhishek Gowda S**  
-  Team Lead and Designer
+- **Abhishek Gowda S**
+  (Team Lead and Designer)
 - **Abishek K V**
-  Frontend Develoepr
+  (Frontend Developer)
 - **Bhakthi**
-  Frontend Developer
+  (Frontend Developer)
 - **Ananya Anand**
-  Backend Developer
+  (Backend Developer)
 - **Hemanth Kumar**
-  Backend Developer
+  (Backend Developer)
 - **Srajanya Shetty**
-  Designer
+  (Designer)
