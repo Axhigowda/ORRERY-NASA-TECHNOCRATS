@@ -23,8 +23,11 @@ This project was developed as part of the NASA Space Apps Challenge 2024, specif
 ## Installation & Usage
 
 1. Clone the repository or download the project files.
-2. Open `index.html` in any web browser to run the application.
-3. Ensure you have an active internet connection for retrieving live NEO data from NASA’s API.
+2. Check if you have installed Node.js and Three.js in your machine, if not install Node.js first.
+3. To install all the Dependencies required go to the project folder and run this command "npm install" and "npm install three" in the terminal.
+4. To run the project just enter this command in the terminal "npm start".
+5. Once done it will show a clicable link in terminal to open it in any web browser to run the application.
+6. Ensure you have an active internet connection for retrieving live NEO data from NASA’s API.
 
 ## Dependencies
 
